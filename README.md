@@ -9,7 +9,7 @@ These will be added over time (albeit slowly..🐌) when I find the time to do s
 💡 My interests: Currently learning how to extract financial data from APIs and analysing/forecasting stock prices in Python.
 Will look to expand stack progressively (e.g. storing financial data on a local db) to include new technologies. 
 
-- 📫 You can reach me via LinkedIn: https://www.linkedin.com/in/gordon-lam-bab794112/
+📫 You can reach me via LinkedIn: https://www.linkedin.com/in/gordon-lam-bab794112/
 
 <!---
 Subliminated/Subliminated is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
