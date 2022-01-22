@@ -1,6 +1,6 @@
 👋 Hi, I’m Gordon and welcome to my ✨Github✨
 
-🌱 A little about me: Just some post-grad student with a deep passion for data who happens to also work in the Digital Data and Analytics space. 
+🌱 A little about me: Just some post-grad student with a passion for dabbling with data and working in the Digital Data and Analytics space. 
 In my spare-time, I enjoy challenging myself by learning new thing (e.g. check this repo out🔥🔥🔥) and staying active 🏃
 
 ❓ What's on my Github: Here you can find a compilation of cool projects I've worked on and some university projects (that I remembered to document 😅).
